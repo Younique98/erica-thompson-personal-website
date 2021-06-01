@@ -265,11 +265,10 @@ a:focus,
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 }
 .section-title.center {
-  padding: 125px 0 45px 0;
+  padding: 70px 0 45px 0;
 }
 /* About Section */
 #about {
-  padding: 100px 0;
   background: #f6f6f6;
 }
 #about .about-text {
@@ -349,7 +348,6 @@ a:focus,
 #portfolio {
   display: flex;
   flex-wrap: wrap;
-  padding: 100px 0;
   background: #f6f6f6;
 }
 .categories {
@@ -764,4 +762,8 @@ p.techExp {
 
 .profExp {
   margin-top: 70px;
+}
+
+a {
+  color: blue;
 }
